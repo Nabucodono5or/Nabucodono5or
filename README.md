@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi!
+---
+Hi, i'm jefferson Abreu, student of Computer Networks in the Unicarioca. I love programming, and sometimes I perform some pentest.
+
 ---
 <!--
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nabucodono5or&theme=chartreuse-dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
