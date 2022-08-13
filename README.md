@@ -1,5 +1,7 @@
 ### Hi!
 ---
+![Custom badge](https://img.shields.io/endpoint?color=3E5B9F&label=Linkedin&logo=Linkedin&style=for-the-badge&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjefferson-abreu-723818ba%2F)
+
 Hi, i'm jefferson Abreu, student of Computer Networks in the Unicarioca. I love programming, and sometimes I perform some pentest.
 
 ---
