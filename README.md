@@ -55,6 +55,10 @@
 <h2> Github Trophies </h2>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nabucodono5or" alt="nabucodono5or" /></a> </p>
 
+<h2> Social </h2>
+<p><a href="https://github.com/Nabucodono5or" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/jefferson-abreu-723818ba/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://github.com/Nabucodono5or" target="_blank"><img alt="Nabucodono5or Publicações" src="https://img.shields.io/badge/Publicações-%2312100E.svg?&style=for-the-badge&logo=githubpages&logoColor=white" /></a>
+</p>
+
 <!--
 **Nabucodono5or/Nabucodono5or** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
